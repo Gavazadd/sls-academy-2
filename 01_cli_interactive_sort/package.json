@@ -1,0 +1,18 @@
+{
+  "name": "01_cli_interactive_sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gavazadd/sls-academy-2"
+  },
+  "author": {
+    "email": "gavazadd@gmail.com",
+    "name": "Ruslan Uhlianytsia"
+  },
+  "license": "ISC"
+}
