@@ -1,0 +1,19 @@
+{
+  "name": "02_cli_primitive_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": {
+    "email": "gavazadd@gmail.com",
+    "name": "Ruslan Uhlianytsia"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
+}

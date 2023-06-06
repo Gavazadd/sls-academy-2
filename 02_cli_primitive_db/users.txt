@@ -1,0 +1,10 @@
+{"name":"John","gender":"Male","age":18}
+{"name":"Maria","gender":"Female","age":20}
+{"name":"Oleg","gender":"Male","age":17}
+{"name":"Ruslan","gender":"Male","age":10}
+{"name":"Anna ","gender":"female","age":12}
+{"name":"Maria","gender":"female","age":54}
+{"name":"Vlad","gender":"male","age":54}
+{"name":"Alex","gender":"male","age":76}
+{"name":"Vladimir","gender":"male","age":32}
+{"name":"Olga","gender":"female","age":41}
